@@ -1,0 +1,8 @@
+## Initialize Next.js project with TypeScript
+Completed: 2026-01-11
+Acceptance criteria:
+- package.json exists with Next.js, React, and TypeScript dependencies
+- tsconfig.json is configured for Next.js development
+- next.config.js is present with basic configuration
+- .gitignore includes Next.js specific files and folders
+
