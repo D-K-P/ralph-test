@@ -6,3 +6,11 @@ Acceptance criteria:
 - next.config.js is present with basic configuration
 - .gitignore includes Next.js specific files and folders
 
+## Create basic project structure and pages
+Completed: 2026-01-11
+Acceptance criteria:
+- app/ directory exists with layout.tsx and page.tsx
+- Basic home page renders with Next.js branding
+- Root layout includes proper HTML structure and metadata
+- 404 page (not-found.tsx) is implemented
+
