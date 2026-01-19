@@ -16,4 +16,6 @@ export default defineConfig({
       randomize: true,
     },
   },
+  // Maximum duration for task execution in seconds (required)
+  maxDuration: 3600, // 1 hour
 });
