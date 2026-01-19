@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@trigger.dev/react-hooks": "^4.3.2",
+    "@trigger.dev/sdk": "^4.3.2",
     "next": "16.1.2",
     "react": "19.2.3",
     "react-dom": "19.2.3"
