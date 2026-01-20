@@ -5,6 +5,8 @@ export default defineConfig({
   project: process.env.TRIGGER_PROJECT_REF!,
   // Directory containing your trigger tasks
   dirs: ["./trigger"],
+  // Maximum duration for task runs in seconds (required)
+  maxDuration: 3600, // 1 hour
   // Retry configuration
   retries: {
     // Disable retries in dev mode for faster debugging
