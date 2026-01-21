@@ -21,4 +21,8 @@ export default defineConfig({
       randomize: true,
     },
   },
+
+  // Maximum duration for task execution in seconds (required)
+  // Tasks exceeding this duration will be automatically stopped
+  maxDuration: 3600, // 1 hour
 });
