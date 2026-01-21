@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.13",
+    "@trigger.dev/build": "^4.3.2",
+    "@trigger.dev/react-hooks": "^4.3.2",
+    "@trigger.dev/sdk": "^4.3.2",
+    "ai": "^6.0.42",
     "next": "16.1.2",
     "react": "19.2.3",
     "react-dom": "19.2.3"
@@ -21,6 +26,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.2",
     "tailwindcss": "^4",
+    "trigger.dev": "^4.3.2",
     "typescript": "^5"
   }
 }
